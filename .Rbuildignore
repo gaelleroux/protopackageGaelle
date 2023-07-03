@@ -1,0 +1,11 @@
+.DS_Store
+.Rbuildignore
+.Rhistory
+.git
+.gitignore
+.travis.yml
+LICENSE
+README.md
+codemeta.json
+tests
+^doc$
