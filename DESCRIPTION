@@ -5,7 +5,8 @@ Description: An empty R package build as a prototype. It illustrates development
 Version: 0.0.1
 Date: 2023-01-10
 Authors@R: c(
-    person("Florent", "Chuffart", ,"florent.chuffart@gmail.com", c("aut", "cre", "cph"))
+    person("Florent", "Chuffart", ,"florent.chuffart@gmail.com", c("aut", "cre", "cph")),
+    person("Magali", "Richard", ,"magali.richard@univ-grenoble-alpes.fr", "aut")
     )
 Maintainer: Florent Chuffart <florent.chuffart@gmail.com>
 License: GPL  (>=3)
