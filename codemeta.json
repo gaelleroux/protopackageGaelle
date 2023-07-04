@@ -6,7 +6,7 @@
     "dateCreated": "2016-01-26",
     "name": "protopackage",
     "description": "An empty R package build as a prototype. It illustrates development practices in R: documentation, literate programming, testing, versioning, continuous integration.",
-    "applicationCategory": "Biology",
+    "applicationCategory": "Statistiques",
     "programmingLanguage": [
         "R"
     ],

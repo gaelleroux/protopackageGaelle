@@ -28,3 +28,12 @@ Sys.setenv('_R_CHECK_SYSTEM_CLOCK_' = 0)
 devtools::check()
 devtools::build()
 ```
+
+**Vignettes**
+
+
+Under R, in the vignette directory:
+    
+```
+rmarkdown::render("make_a_coffee.Rmd")
+```
