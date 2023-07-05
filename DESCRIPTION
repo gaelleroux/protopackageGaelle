@@ -7,7 +7,7 @@ Date: 2023-01-10
 Authors@R: c(
     person("Florent", "Chuffart", ,"florent.chuffart@gmail.com", c("aut", "cre", "cph")),
     person("Magali", "Richard", ,"magali.richard@univ-grenoble-alpes.fr", "aut")
-    person("Leroux", "Titi", ,"titi.tutud@gmail.com", "aut")
+    person("Gaelle", "Leroux", ,"gaelle.leroux@cnrs.fr", "aut")
 )
 Maintainer: Florent Chuffart <florent.chuffart@gmail.com>
 License: GPL  (>=3)
